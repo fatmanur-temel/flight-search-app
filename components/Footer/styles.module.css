@@ -3,7 +3,6 @@
     align-items: center;
     justify-content: center;
     background: rgba(12,23,77,1);
-    background: linear-gradient(0deg, rgba(12,23,77,1) 16%, rgba(91,140,237,1) 80%, rgba(169,207,254,1) 100%);
     padding: 30px 0;
   }
   
