@@ -7,9 +7,9 @@ import logo from '@/images/logo_travel.png'
 function Header() {
     return (
         <header className={styles.header}>
-            <nav class="navbar">
-                <div class="container">
-                    <Link class="navbar-brand" href="/">
+            <nav className="navbar">
+                <div className="container">
+                    <Link className="navbar-brand" href="/">
                         <Image 
                             src={logo} 
                             alt="logo" 
