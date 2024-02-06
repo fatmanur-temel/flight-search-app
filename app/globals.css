@@ -32,7 +32,7 @@ body h4,
 body h5,
 body h6,
 body a {
-  color: var(--white);
+  color: var(--black);
 }
 body a {
   text-decoration: none;
@@ -42,4 +42,13 @@ body p {
 }
 body {
   background-color: var(--white);
+}
+.t-6 {
+  top: 6px;
+}
+.b-6 {
+  bottom: 6px;
+}
+.ascending .bi-caret-up-fill,  .descending .bi-caret-down-fill{
+  color: #000;
 }

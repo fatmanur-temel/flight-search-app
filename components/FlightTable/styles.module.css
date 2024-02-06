@@ -1,3 +1,37 @@
+.flight_table thead {
+    background-color: #aca2a2;
+    color: #fff;
+}
+
+.flight_table,
+.flight_table tr {
+    border: #aca2a2 solid 1px;
+}
+
+.flight_table tr {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 10px;
+    grid-row-gap: 0px;
+}
+
+.flight_table thead th {
+    display: grid;
+    grid-template-columns: 1fr 5fr;
+    grid-template-rows: 1fr;
+    align-items: center;
+    justify-items: start;
+}
+
+.flight_table .sort_icons svg {
+    position: relative;
+}
+
+.flight_table thead th:not(:first-child) span {
+    cursor: pointer;
+}
+
 .table_body img {
     vertical-align: middle;
     overflow: clip;
