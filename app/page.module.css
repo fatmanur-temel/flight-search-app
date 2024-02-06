@@ -1,7 +1,7 @@
 .home_container {
   width: 100vw;
   height: 100vh;
-  background-image: url("../images/background_sky.png");
+  background-image: url("../public/images/background_sky.png");
   background-repeat: no-repeat;
   background-size: cover;
 }

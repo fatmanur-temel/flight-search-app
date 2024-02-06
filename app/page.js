@@ -1,8 +1,8 @@
 import Image from 'next/image'
 import styles from './page.module.css'
-import depratureTo from '@/images/to.svg'
-import depratureFrom from '@/images/from.svg'
-import calendar from '@/images/calendar.svg'
+import depratureTo from '@/public/images/to.svg'
+import depratureFrom from '@/public/images/from.svg'
+import calendar from '@/public/images/calendar.svg'
 
 export default function Home() {
   return (

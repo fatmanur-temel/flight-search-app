@@ -2,7 +2,7 @@ import React from 'react'
 import Image from 'next/image'
 import Link from 'next/link'
 import styles from './styles.module.css'
-import logo from '@/images/logo_travel.png'
+import logo from '@/public/images/logo_travel.png'
 
 function Header() {
     return (

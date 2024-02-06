@@ -3,9 +3,9 @@
       {
         "id": 1,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "20/02/24",
-        "departureTime": "12:45",
+        "departureTime": "12:35",
         "arrivalDate": "20/02/24",
         "arrivalTime": "14:15",
         "price": 2500,
@@ -21,9 +21,9 @@
       {
         "id": 2,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "20/02/24",
-        "departureTime": "09:30",
+        "departureTime": "09:45",
         "arrivalDate": "20/02/24",
         "arrivalTime": "11:00",
         "price": 1800,
@@ -39,9 +39,9 @@
       {
         "id": 3,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "20/02/24",
-        "departureTime": "15:15",
+        "departureTime": "15:00",
         "arrivalDate": "20/02/24",
         "arrivalTime": "16:45",
         "price": 2000,
@@ -57,11 +57,11 @@
       {
         "id": 4,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "20/02/24",
         "departureTime": "18:00",
         "arrivalDate": "20/02/24",
-        "arrivalTime": "19:30",
+        "arrivalTime": "19:35",
         "price": 2200,
         "from": {
           "city": "Antalya",
@@ -75,9 +75,9 @@
       {
         "id": 5,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "21/02/24",
-        "departureTime": "13:45",
+        "departureTime": "13:30",
         "arrivalDate": "21/02/24",
         "arrivalTime": "15:15",
         "price": 1700,
@@ -93,7 +93,7 @@
       {
         "id": 6,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "21/02/24",
         "departureTime": "08:30",
         "arrivalDate": "21/02/24",
@@ -111,7 +111,7 @@
       {
         "id": 7,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "21/02/24",
         "departureTime": "16:15",
         "arrivalDate": "21/02/24",
@@ -129,7 +129,7 @@
       {
         "id": 8,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "27/02/24",
         "departureTime": "11:45",
         "arrivalDate": "27/02/24",
@@ -147,7 +147,7 @@
       {
         "id": 9,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "28/02/24",
         "departureTime": "19:30",
         "arrivalDate": "28/02/24",
@@ -165,7 +165,7 @@
       {
         "id": 10,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "20/02/24",
         "departureTime": "08:00",
         "arrivalDate": "20/02/24",
@@ -183,7 +183,7 @@
       {
         "id": 11,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "21/02/24",
         "departureTime": "15:30",
         "arrivalDate": "21/02/24",
@@ -201,7 +201,7 @@
       {
         "id": 12,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "22/02/24",
         "departureTime": "09:15",
         "arrivalDate": "22/02/24",
@@ -219,7 +219,7 @@
       {
         "id": 13,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "23/02/24",
         "departureTime": "17:30",
         "arrivalDate": "23/02/24",
@@ -237,7 +237,7 @@
       {
         "id": 14,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "24/02/24",
         "departureTime": "14:45",
         "arrivalDate": "24/02/24",
@@ -255,7 +255,7 @@
       {
         "id": 15,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "25/02/24",
         "departureTime": "08:00",
         "arrivalDate": "25/02/24",
@@ -273,7 +273,7 @@
       {
         "id": 16,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "26/02/24",
         "departureTime": "11:30",
         "arrivalDate": "26/02/24",
@@ -291,7 +291,7 @@
       {
         "id": 17,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "27/02/24",
         "departureTime": "19:45",
         "arrivalDate": "27/02/24",
@@ -309,7 +309,7 @@
       {
         "id": 18,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "22/02/24",
         "departureTime": "12:45",
         "arrivalDate": "22/02/24",
@@ -327,7 +327,7 @@
       {
         "id": 19,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "21/02/24",
         "departureTime": "09:30",
         "arrivalDate": "21/02/24",
@@ -345,7 +345,7 @@
       {
         "id": 20,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "22/02/24",
         "departureTime": "15:15",
         "arrivalDate": "22/02/24",
@@ -363,7 +363,7 @@
       {
         "id": 21,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "23/02/24",
         "departureTime": "18:00",
         "arrivalDate": "23/02/24",
@@ -381,7 +381,7 @@
       {
         "id": 22,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "22/02/24",
         "departureTime": "13:45",
         "arrivalDate": "22/02/24",
@@ -399,7 +399,7 @@
       {
         "id": 23,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "23/02/24",
         "departureTime": "08:30",
         "arrivalDate": "23/02/24",
@@ -417,7 +417,7 @@
       {
         "id": 24,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "24/02/24",
         "departureTime": "16:15",
         "arrivalDate": "24/02/24",
@@ -435,7 +435,7 @@
       {
         "id": 25,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "26/02/24",
         "departureTime": "11:45",
         "arrivalDate": "26/02/24",
@@ -453,7 +453,7 @@
       {
         "id": 26,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "27/02/24",
         "departureTime": "19:30",
         "arrivalDate": "27/02/24",
@@ -471,7 +471,7 @@
       {
         "id": 27,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "21/02/24",
         "departureTime": "08:00",
         "arrivalDate": "21/02/24",
@@ -489,7 +489,7 @@
       {
         "id": 28,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "22/02/24",
         "departureTime": "15:30",
         "arrivalDate": "22/02/24",
@@ -507,7 +507,7 @@
       {
         "id": 29,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "23/02/24",
         "departureTime": "09:15",
         "arrivalDate": "23/02/24",
@@ -525,7 +525,7 @@
       {
         "id": 30,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "24/02/24",
         "departureTime": "17:30",
         "arrivalDate": "24/02/24",
@@ -543,7 +543,7 @@
       {
         "id": 31,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "25/02/24",
         "departureTime": "14:45",
         "arrivalDate": "25/02/24",
@@ -561,7 +561,7 @@
       {
         "id": 32,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "26/02/24",
         "departureTime": "08:00",
         "arrivalDate": "26/02/24",
@@ -579,7 +579,7 @@
       {
         "id": 33,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "27/02/24",
         "departureTime": "11:30",
         "arrivalDate": "27/02/24",
@@ -597,7 +597,7 @@
       {
         "id": 34,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "28/02/24",
         "departureTime": "19:45",
         "arrivalDate": "28/02/24",
@@ -615,7 +615,7 @@
       {
         "id": 35,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "29/02/24",
         "departureTime": "12:45",
         "arrivalDate": "29/02/24",
@@ -633,7 +633,7 @@
       {
         "id": 36,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "21/02/24",
         "departureTime": "09:30",
         "arrivalDate": "21/02/24",
@@ -651,7 +651,7 @@
       {
         "id": 37,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "22/02/24",
         "departureTime": "15:15",
         "arrivalDate": "22/02/24",
@@ -669,7 +669,7 @@
       {
         "id": 38,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "23/02/24",
         "departureTime": "18:00",
         "arrivalDate": "23/02/24",
@@ -687,7 +687,7 @@
       {
         "id": 39,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "24/02/24",
         "departureTime": "13:45",
         "arrivalDate": "24/02/24",
@@ -705,7 +705,7 @@
       {
         "id": 40,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "25/02/24",
         "departureTime": "08:30",
         "arrivalDate": "25/02/24",
@@ -723,7 +723,7 @@
       {
         "id": 41,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "26/02/24",
         "departureTime": "16:15",
         "arrivalDate": "26/02/24",
@@ -741,7 +741,7 @@
       {
         "id": 42,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "27/02/24",
         "departureTime": "11:45",
         "arrivalDate": "27/02/24",
@@ -759,7 +759,7 @@
       {
         "id": 43,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "28/02/24",
         "departureTime": "19:30",
         "arrivalDate": "28/02/24",
@@ -777,7 +777,7 @@
       {
         "id": 44,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "10/03/24",
         "departureTime": "08:00",
         "arrivalDate": "10/03/24",
@@ -795,7 +795,7 @@
       {
         "id": 45,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "11/03/24",
         "departureTime": "15:30",
         "arrivalDate": "11/03/24",
@@ -813,7 +813,7 @@
       {
         "id": 46,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "12/03/24",
         "departureTime": "09:15",
         "arrivalDate": "12/03/24",
@@ -831,7 +831,7 @@
       {
         "id": 47,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "13/03/24",
         "departureTime": "17:30",
         "arrivalDate": "13/03/24",
@@ -849,7 +849,7 @@
       {
         "id": 48,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "14/03/24",
         "departureTime": "14:45",
         "arrivalDate": "14/03/24",
@@ -867,7 +867,7 @@
       {
         "id": 49,
         "airline": "Pegasus",
-        "airlineLogo": "flight-search-app/images/pegasus-logo.png",
+        "airlineLogo": "/images/pegasus-logo.png",
         "departureDate": "15/03/24",
         "departureTime": "08:00",
         "arrivalDate": "15/03/24",
@@ -885,7 +885,7 @@
       {
         "id": 50,
         "airline": "Türk Hava Yolları",
-        "airlineLogo": "flight-search-app/images/thy-logo.png",
+        "airlineLogo": "/images/thy-logo.png",
         "departureDate": "16/03/24",
         "departureTime": "11:30",
         "arrivalDate": "16/03/24",
@@ -903,7 +903,7 @@
       {
         "id": 51,
         "airline": "Anadolujet",
-        "airlineLogo": "flight-search-app/images/anadolujet-logo.png",
+        "airlineLogo": "/images/anadolujet-logo.png",
         "departureDate": "17/03/24",
         "departureTime": "19:45",
         "arrivalDate": "17/03/24",
