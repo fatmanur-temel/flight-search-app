@@ -1,0 +1,65 @@
+.flight_form {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    row-gap: 50px;
+}
+
+.flight_form input {
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 10px;
+    height: 40px;
+}
+
+.flight_form label {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.flight_form label img {
+    margin-right: 10px;
+    height: auto;
+    width: 6%;
+}
+
+.flight_form label span {
+    font-size: 28px;
+    font-weight: 700;
+    color: var(--dark-blue);
+}
+
+.flight_form .one_way_input {
+    position: absolute;
+    right: calc(var(--bs-gutter-x) * 0.5 + 10px);
+    top: calc(50% - 17px);
+    font-weight: 500;
+    font-size: 22px;
+}
+
+.flight_form .one_way_input input {
+    width: fit-content;
+    margin: 0;
+}
+
+.search_btn {
+    background: var(--dark-blue);
+    color: var(--white);
+    width: 100%;
+    border-radius: 10px;
+    border-color: var(--dark-blue);
+    transition-duration: 0.1s;
+}
+
+.search_btn:hover {
+    background-color: var(--white);
+    color: var(--dark-blue);
+    transition-duration: 0.1s;
+}
+
+.search_btn span {
+    font-size: 20px;
+}

@@ -148,7 +148,7 @@ const FlightTable = ({ flights }) => {
                         </td>
                         <td>
                             <p>{flight.price} TL</p>
-                            <button>Detay</button>
+                            {/* <button>Detay</button> */}
                         </td>
                     </tr>
                 ))}
